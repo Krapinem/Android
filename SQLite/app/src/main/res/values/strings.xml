@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SQLite</string>
+    <string name="add">ADD</string>
+    <string name="delete">Delete</string>
+    <string name="enter_here">Enter Here!!!</string>
+    <string name="content">Content</string>
+</resources>

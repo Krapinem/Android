@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ListView Custom</string>
+    <string name="item">Item</string>
+    <string name="image">image</string>
+</resources>

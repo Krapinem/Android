@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Intent Service</string>
+    <string name="go_to_bacon">Go to Bacon</string>
+    <string name="apple">Apple</string>
+    <string name="message">Message</string>
+    <string name="go_to_apple">Go to Apple</string>
+    <string name="bacon">Bacon</string>
+    <string name="enter_message_to_bacon">Enter Message to Bacon</string>
+</resources>

@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Handler</string>
+    <string name="textview">Dare To Change Me</string>
+    <string name="button">Click Here</string>
+</resources>
